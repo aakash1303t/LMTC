@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -16,7 +15,6 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
->>>>>>> 6ee99406a59fa0ccbe714dc8fb8b5e63005c1353
 
 <url>
   <loc>https://www.lalithamteachertraining.com/</loc>
@@ -42,7 +40,6 @@
   <loc>https://www.lalithamteachertraining.com/contact.html</loc>
   <lastmod>2025-01-23T13:29:13+00:00</lastmod>
   <priority>0.80</priority>
-<<<<<<< HEAD
 </url>
 
 
@@ -50,5 +47,4 @@
 </url>
 
 
->>>>>>> 6ee99406a59fa0ccbe714dc8fb8b5e63005c1353
 </urlset>
